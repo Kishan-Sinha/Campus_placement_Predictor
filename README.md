@@ -14,5 +14,4 @@ The project focuses on building a real time placement prediction model from kagg
 
 **6. setting_Up_UI :** The codebase for Setting up the User Interface for the predictive model.
 
-The overall score of the model upon training data was **83 (out of 100**). The UI of the model can be accessed through the following link https://b7cd970b39d070abf9.gradio.live/
-
+The overall score of the model upon training data was **83 (out of 100**). The UI of the model can be accessed by running the above code "setting_Up_UI" by calling the "placement_model.pkl" model
